@@ -42,8 +42,7 @@ I'm a programmer specializing in Flutter mobile development and is currently foc
 
 ### 🔍 What I'm up to
 
-- 🎮 Currently learning C++ skills for game development
-- 🌱 Building small game project to demonstrate my abilities
+- 🎮 Currently learning C++ skills
 - 💬 Ask me about Flutter, database design, or software architecture
 
 ---
