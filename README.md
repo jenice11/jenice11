@@ -1,6 +1,6 @@
 # Hello, hello! 👋
 
-I'm a programmer specializing in Flutter mobile development and is currently focused on game development with C++ as a pet project. I enjoy coding as solving programming challenges like solving puzzles.
+I'm a programmer specializing in Flutter mobile development and is currently focused on learning game development with C++. I enjoy coding as solving programming challenges like solving puzzles.
 
 ---
 
