@@ -42,7 +42,7 @@ I'm a programmer specializing in Flutter mobile development. I enjoy coding as s
 
 ### 🔍 What I'm up to
 
-- 🎮 Currently learning C++ skills
-- 💬 Ask me about Flutter, database design, or software architecture
+- 🎮 Currently learning Typescript
+- 💬 Ask me about Flutter or mobile development
 
 ---
